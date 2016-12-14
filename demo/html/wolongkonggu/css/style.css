@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;}
+ul,ol,li{list-style:none;}
+a{text-decoration:none;color:#4f4f4f;}
+body{font:12px/2 "微软雅黑";}
+img{border:none;}
+/*head1*/
+.head1{width:1000px;height:100px;background:url(../images/logo.jpg) no-repeat left center;margin:0 auto;}
+/*head1*/
+.intr{width:974px;height:60px;background:#2d2d2d;margin:0 auto;padding-left:26px;}
+.intr li{width:88px;height:60px;border-right:1px solid #4a4a4a;float:left;padding-left:32px;}
+.intr a {color:#fafafa;font-size:13px;line-height:60px;height:60px;}
+#no{border-style:none;}
+/*show*/
+.show{height:463px;width:1000px;margin:0 auto;}
+
+/*main1*/
+.main1{width:1000px;height:240px;margin:0 auto;}
+/*main1_left*/
+.main1_left{width:443px;height:240px;float:left;padding-left:22px;margin-right:35px;}
+.tit{height:77px;line-height:90px;font-size:18px;color:#212121;font-weight:normal;}
+.list{height:163px;}
+.list li{height:25px;background:url(../images/tit.jpg) no-repeat left center;padding-left:10px;}	
+.list span{float:right;color:#b3b3b3;}
+/*main1_center*/
+.main1_center{width:215px;height:240px;background:#f1f1f1;float:left;padding-left:27px;}
+.h87{height:87px;}
+.cont1{width:130px;height:63px;line-height:25px;color:#545454;}
+.cont1 span{font-size:14px;}
+.cont2{width:193px;color:#929292;line-height:24px;}
+/*main1_right*/
+.main1_right{width:233px;height:240px;background:#fbfbfb url(../images/flower.jpg) right bottom no-repeat;float:left;padding-left:25px;url(../images/flwer.jpg) right botom;}
+.cont3{width:185px;color:#575757;height:92px;}
+/*main2*/
+.main2{width:1000px;height:306px;margin:0 auto;}
+.h64{height:64px;line-height:77px;margin-left:20px;}
+.main2 dl{width:210px;height:241px;float:left;margin:0 20px;}
+.main2 dd{line-height:25px;color:#5c5c5c;margin-top:20px;}
+/*main3*/
+.main3{width:1000px;height:250px;background:#e5e5e5;margin:0 auto;}
+/*main3_left*/
+.main3_left{width:454px;height:230px;padding-top:20px;padding-left:20px;float:left;}
+.h38{height:38px;line-height:38px;border-bottom:1px solid #c2c2c2;}
+.list1{width:150px;height:169px;padding:22px 0 0 6px;float:left;}
+.list1 li{height:24px;font-size:12px;background:url(../images/go.jpg) no-repeat left center;color:#626262;padding-left:15px;}
+.list2{width:180px;padding-top:22px;}
+.list3{width:106px;padding-top:22px;float:left;}
+/*main3_center*/
+.main3_center{width:152px;height:230px;padding-top:20px;padding-left:50px;float:left;}
+/*main3_right*/
+.main3_right{width:250px;height:230px;padding:20px 20px 0 50px;float:left;background:url(../images/map.jpg) no-repeat right bottom;}
+/*bottom*/
+.bottom{width:978px;height:83px;margin:0 auto;padding-left:22px;color:#888888;}
+.borrom a{color:#888888;}
+.bottom p{line-height:62px;margin-bottom:20px;}
+.bottom span{float:right;}
